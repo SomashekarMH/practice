@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-I am in master branch - test1
-=======
-i am on my child branch
->>>>>>> child
+Hi i am in master branch
